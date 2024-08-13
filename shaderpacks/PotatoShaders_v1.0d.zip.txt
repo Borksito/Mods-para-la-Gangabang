@@ -1,0 +1,6 @@
+#Mon Aug 12 22:50:30 CLT 2024
+fogFalloff=0.5
+motionblurToggle=false
+vanillaFogColor=true
+vanillaSkyColor=true
+ambientOcclusionToggle=true
