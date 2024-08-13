@@ -9,7 +9,7 @@ earlyWindowFBScale = 1
 #Early window provider
 earlyWindowProvider = "fmlearlywindow"
 #Early window width
-earlyWindowWidth = 1360
+earlyWindowWidth = 1024
 #Early window starts maximized
 earlyWindowMaximized = false
 #Default config path for servers

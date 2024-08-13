@@ -1,4 +1,7 @@
 {
+  "delightful:crop_progress": null,
+  "delightful:mushroom_colony": null,
+  "delightful:pie_icons": null,
   "gravestone:grave": null,
   "jade:block_face": null,
   "jade:distance": null,
@@ -44,5 +47,8 @@
   "minecraft:tnt_stability": null,
   "minecraft:total_enchantment_power": null,
   "minecraft:villager_profession": null,
-  "minecraft:zombie_villager": null
+  "minecraft:zombie_villager": null,
+  "supplementaries:hat_stand": null,
+  "supplementaries:present": null,
+  "supplementaries:safe": null
 }
