@@ -24,6 +24,7 @@ Quiero decirles que una buena cantidad de mods están para optimizar el juego y 
 | Alex's Delight | Forge |https://www.curseforge.com/minecraft/mc-mods/alexs-delight|
 | Alex's Mobs | Forge |https://www.curseforge.com/minecraft/mc-mods/alexs-mobs|
 | Amendments | Forge |https://www.curseforge.com/minecraft/mc-mods/amendments |
+| AppleSkin | Forge | https://www.curseforge.com/minecraft/mc-mods/appleskin |
 | Architectury API | Forge |https://www.curseforge.com/minecraft/mc-mods/architectury-api|
 | Artifacts | Forge |https://www.curseforge.com/minecraft/mc-mods/artifacts|
 | Athena | Forge |https://www.curseforge.com/minecraft/mc-mods/athena|
