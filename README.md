@@ -1,4 +1,5 @@
-# Minecraft Moddeado GOD
+
+![minecraft_title (1)](https://github.com/user-attachments/assets/efe22e7e-5960-44bb-afe7-8eb8b739ca33)
 
 Qué pasa chavales; aquí esta el modpack para jugar Minecraft; aqui pueden echar un vistazo a las configuraciones y los mods que usaremos y en el apartado de **releases** van a poder descargar un *.rar* para extraerlo y obtener los mods; hay varias formas de instalarlos y depende más que nada del launcher que esten usando:
 
@@ -12,8 +13,21 @@ Quiero decirles que una buena cantidad de mods están para optimizar el juego y 
 
 |Nombre          |Loader                         |URL               |
 |----------------|-------------------------------|------------------|
-|Debo añadir mods acá|Forge				             |`lol`                |
-|          |Fabric			             |                  |
-|          |								 |                  |
-
-
+| [EMF] Entity Model Features | Forge |`lol`                |
+| [ETF] Entity Texture Features | Forge |                  |
+| Adorabuild: Structures | Forge |                  |
+| Advanced Netherite | Forge |                  |
+| AdventureZ | Fabric |	|
+| Alex's Caves | Forge |	|
+| Alex's Delight | Forge | 	 |
+| Alex's Mobs | Forge | 	 |
+| Architectury API | Forge | 	 |
+| Artifacts | Forge | 	 |
+| Athena | Forge | 	 |
+| BadOptimizations | Forge | 	 |
+| BCLib | Fabric | |
+| Better FPS - Render Distance | Forge | |
+| BetterEnd | Fabric | |
+| BetterNether | Fabric | |
+| Biome Music | Forge | |
+| Bosses of Mass Destruction | Forge | |
