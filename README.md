@@ -16,7 +16,7 @@ Quiero decirles que una buena cantidad de mods están para optimizar el juego y 
 |Nombre          |Loader                         |URL               |
 |----------------|-------------------------------|------------------|
 | [EMF] Entity Model Features | Forge |https://www.curseforge.com/minecraft/mc-mods/entity-model-features|
-| [ETF] Entity Texture Features | Forge |https://www.curseforge.com/minecraft/mc-mods/entity-texture-features-fabric                  |
+| [ETF] Entity Texture Features | Forge |https://www.curseforge.com/minecraft/mc-mods/entity-texture-features-fabric |
 | Adorabuild: Structures | Forge |https://www.curseforge.com/minecraft/mc-mods/adorabuild-structures|
 | Advanced Netherite | Forge |https://www.curseforge.com/minecraft/mc-mods/advanced-netherite|
 | AdventureZ | Fabric |	https://www.curseforge.com/minecraft/mc-mods/adventurez|
@@ -42,6 +42,7 @@ Quiero decirles que una buena cantidad de mods están para optimizar el juego y 
 | CERBON's API | Forge | https://www.curseforge.com/minecraft/mc-mods/cerbons-api|
 | Chat Heads | Forge | https://www.curseforge.com/minecraft/mc-mods/chat-heads|
 | Chipped | Forge | https://www.curseforge.com/minecraft/mc-mods/chipped|
+| Chisel Reborn | Forge | https://www.curseforge.com/minecraft/mc-mods/chisel-reborn |
 | Chunk Sending | Forge | https://www.curseforge.com/minecraft/mc-mods/chunk-sending-forge-fabric|
 | Citadel | Forge | https://www.curseforge.com/minecraft/mc-mods/citadel|
 | Client Crafting | Forge | https://www.curseforge.com/minecraft/mc-mods/client-crafting|
@@ -64,7 +65,9 @@ Quiero decirles que una buena cantidad de mods están para optimizar el juego y 
 | Embedddium++ | Forge | https://www.curseforge.com/minecraft/mc-mods/embeddiumplus|
 | Ender Dragon Loot | Forge | https://www.curseforge.com/minecraft/mc-mods/ender-dragon-loot|
 | Entity Culling | Forge | https://www.curseforge.com/minecraft/mc-mods/entityculling|
+| Epic Knights | Forge | https://www.curseforge.com/minecraft/mc-mods/epic-knights-armor-and-weapons |
 | Essential Mod | Forge | https://www.curseforge.com/minecraft/mc-mods/essential-mod|
+| Fabled Weaponry | Forge | https://www.curseforge.com/minecraft/mc-mods/fabled-weaponry |
 | Falling Leaves | Forge | https://www.curseforge.com/minecraft/mc-mods/falling-leaves-forge|
 | Fancy Menu | Forge | https://www.curseforge.com/minecraft/mc-mods/fancymenu|
 | Farmer's Delight | Forge | https://www.curseforge.com/minecraft/mc-mods/farmers-delight|
@@ -74,6 +77,7 @@ Quiero decirles que una buena cantidad de mods están para optimizar el juego y 
 | Ferrite Core | Forge | https://www.curseforge.com/minecraft/mc-mods/ferritecore|
 | Fix GPU Memory Leak | Forge | https://www.curseforge.com/minecraft/mc-mods/fix-gpu-memory-leak|
 | Forgified Fabric API | Forge | https://www.curseforge.com/minecraft/mc-mods/forgified-fabric-api|
+| Framework | Forge | https://www.curseforge.com/minecraft/mc-mods/framework |
 | Friends&Foes | Forge | https://www.curseforge.com/minecraft/mc-mods/friends-and-foes-forge|
 | GeckoLib | Forge | https://www.curseforge.com/minecraft/mc-mods/geckolib|
 | Geophilic | Forge | https://www.curseforge.com/minecraft/mc-mods/geophilic|
@@ -94,6 +98,7 @@ Quiero decirles que una buena cantidad de mods están para optimizar el juego y 
 | ModernFix | Forge | https://www.curseforge.com/minecraft/mc-mods/modernfix|
 | Moonligth Lib | Forge | https://www.curseforge.com/minecraft/mc-mods/selene|
 | Mouse Tweaks | Forge | https://www.curseforge.com/minecraft/mc-mods/mouse-tweaks|
+| MrCrayfish's Furniture | Forge | https://www.curseforge.com/minecraft/mc-mods/refurbished-furniture |
 | mutil | Forge | https://www.curseforge.com/minecraft/mc-mods/mutil|
 | Nether's Delight | Forge | https://www.curseforge.com/minecraft/mc-mods/nethers-delight|
 | Nicer Skies | Fabric | https://www.curseforge.com/minecraft/mc-mods/nicer-skies|
@@ -108,6 +113,7 @@ Quiero decirles que una buena cantidad de mods están para optimizar el juego y 
 | Puzzles Lib | Forge | https://www.curseforge.com/minecraft/mc-mods/puzzles-lib|
 | Quark | Forge | https://www.curseforge.com/minecraft/mc-mods/quark|
 | Resourceful Lib | Forge | https://www.curseforge.com/minecraft/mc-mods/resourceful-lib|
+| Security Craft | Forge | https://www.curseforge.com/minecraft/mc-mods/security-craft |
 | Serene Seasons | Forge | https://www.curseforge.com/minecraft/mc-mods/serene-seasons|
 | Simple Voice Chat | Forge | https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat|
 | Sinytra Connector | Forge | https://www.curseforge.com/minecraft/mc-mods/sinytra-connector|
